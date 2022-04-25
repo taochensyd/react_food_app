@@ -85,7 +85,7 @@ const Card = styled.div`
         font-align: 600;
         font-size: 1rem;
         height: 40%;
-        display: felx;
+        display: flex;
         justify-content: center;
         aligh-items: center;
     }
